@@ -1,0 +1,24 @@
+form.form {
+	margin: 10px 0px 0px 10px;
+	background: #EEEEEE;
+	padding: 20px;
+	max-width: 400px !important;
+	min-width: 400px !important;
+	width: 400px !important;
+	border: 1px solid #CCCCCC;
+	float: left;
+}
+
+input.error {
+	border: 1px solid #FF0000 !important;
+}
+
+label.error, div.error {
+	font-size: 10px; font-weight : normal;
+	color: #FF0000 !important;
+	font-weight: normal;
+}
+
+.text-normal {
+	font-weight: normal !important;
+}
