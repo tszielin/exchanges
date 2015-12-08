@@ -175,7 +175,7 @@
 		</table>
 		<hr>
 		<div align="center">
-			<input class="submit" type="submit" value="Submit" />
+			<input class="submit" type="submit" value="Create" />
 		</div>
 	</form>
 </body>
